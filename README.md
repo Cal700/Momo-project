@@ -1,5 +1,4 @@
-# Momo-project
-/*mimics as momo*/
+
 #include<iostream>
 using namespace std;
 
