@@ -1,5 +1,5 @@
 # Momo-project
-mimics as momo
+/*mimics as momo*/
 #include<iostream>
 using namespace std;
 
